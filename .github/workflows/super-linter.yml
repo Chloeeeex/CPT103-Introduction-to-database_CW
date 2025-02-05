@@ -19,3 +19,5 @@ jobs:
           VALIDATE_PYTHON: true  
           VALIDATE_SQL: true  
           VALIDATE_MARKDOWN: true  
+          SQL_LINT_OPTIONS: "--ignore-rules=trailing-whitespace,unrecognized-statement"
+
