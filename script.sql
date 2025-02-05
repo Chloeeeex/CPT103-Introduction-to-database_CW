@@ -178,7 +178,7 @@ ALTER TABLE `Team_Information`
   ADD PRIMARY KEY (`TeamName`),
   ADD UNIQUE KEY `Tele` (`Tele`),
   ADD UNIQUE KEY `Truck` (`Truck`);
-  
+
 --
 -- 表的索引 `Staff_Information` for Task2!
 --
@@ -227,7 +227,7 @@ ALTER TABLE `Serial_Information`
 --
 ALTER TABLE `Staff_Information`
   ADD CONSTRAINT `ST_fk` FOREIGN KEY (`Dept(TeamName)`) REFERENCES `Team_Information` (`TeamName`);
-  
+ 
 --
 -- 限制表 `Maintain_Information` for Task2!(Updated from what for Task1)
 --
