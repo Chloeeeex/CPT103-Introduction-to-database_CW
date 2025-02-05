@@ -14,7 +14,7 @@
     - [Table Details](#table-details-task-2)
 - [Use Cases Test](#use-cases)
 - [SQL Script](#sql-script)
-- [License](#license)
+
 
 ## Description
 
@@ -71,6 +71,3 @@ The database is designed to minimize data redundancy and support future expansio
 
 [SQL Script](<https://github.com/Chloeeeex/CPT103-Introduction-to-database_CW/blob/8440de4ced969936c8ef24a98caa1245751131de/script.sql>)
 
-## License
-
-[Specify the license under which your project is distributed (e.g., MIT License)]
