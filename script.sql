@@ -227,7 +227,7 @@ ALTER TABLE `Serial_Information`
 --
 ALTER TABLE `Staff_Information`
   ADD CONSTRAINT `ST_fk` FOREIGN KEY (`Dept(TeamName)`) REFERENCES `Team_Information` (`TeamName`);
- 
+
 --
 -- 限制表 `Maintain_Information` for Task2!(Updated from what for Task1)
 --
