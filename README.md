@@ -14,7 +14,6 @@
         * [Table Details](#table-details-task-2)
 * [Use Cases Test](#use-cases)
 * [SQL Script](#sql-script)
-* [Contributing](#contributing)
 * [License](#license)
 
 ## Description
@@ -72,11 +71,8 @@ The database is designed to minimize data redundancy and support future expansio
 
 ## SQL Script
 
-[Include the content of your `script.sql` file here or provide a link to it]
+https://github.com/Chloeeeex/CPT103-Introduction-to-database_CW/blob/8440de4ced969936c8ef24a98caa1245751131de/script.sql 
 
-## Contributing
-
-Contributions to this project are welcome. Please feel free to submit issues or pull requests.
 
 ## License
 
